@@ -30,8 +30,8 @@
     --font-display: var(--main-font);
     --text-normal: rgb(220, 221, 222);
     --text-muted: rgb(114, 118, 125);
-    --channels-width: 220px;
-    --members-width: 240px;
+    --channels-width: 250px;
+    --members-width: 250px;
     --background-shading: 100%;
     --background-overlay: rgba(0, 0, 0, 0.6);
     --background-image: url(https://cdn.discordapp.com/guilds/1013423247401955438/users/760511113795207168/banners/a_e839c7daeedecfeddecd14fd089f98e2.gif?size=1024&width=0&height=256);
