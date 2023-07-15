@@ -41,6 +41,7 @@
   --rs-streaming-color: #643da7; /* Colour for streaming status */
   --rs-phone-visible: block; /* Visibility of the phone icon next to a users avatar. | block = visible | none = hidden */
   --rs-invisible-color: #747f8d; /* Colour for invisible status - Note: this will only show for your own invisibility */
+  --server-unread-colour: #42f5d7; 
 }
 
 /* Any custom CSS below here */
