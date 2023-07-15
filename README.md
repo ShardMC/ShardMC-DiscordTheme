@@ -3,6 +3,6 @@
 
 # Installation
 > ### BetterDiscord
-> Put [this](https://github.com/ShardMC/ShardMC-DiscordTheme/ShardMC.theme.css) file into your `themes` folder
+> Put [this](https://github.com/ShardMC/ShardMC-DiscordTheme/blob/main/ShardMC.theme.css) file into your `themes` folder
 > ### VenCord
 > Add `https://raw.githubusercontent.com/ShardMC/ShardMC-DiscordTheme/main/ShardMC.theme.css` link to your themes
