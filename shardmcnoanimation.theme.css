@@ -1,12 +1,13 @@
 /**
  * @name ShardMC-NoAnimation
  * @author Theo
- * @version 1.0.0
+ * @version 2.0.0
  * @description ShardMC Discord theme without animated background. Original theme: [SoftX](https://betterdiscord.app/theme/SoftX)
  * @invite CqVAzakrqx
  * @authorId 691552610519613440
  * @website https://shardmc.github.io
  * @source https://github.com/ShardMC/ShardMC-DiscordTheme
+ * @updateUrl https://shardmc.github.io/ShardMC-DiscordTheme/shardmcnoanimation.theme.css
 */
 
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@100;300;400;500;700&display=swap');
@@ -15,7 +16,7 @@
 @import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
 
 :root {
-  --background-image: url('https://cdn.discordapp.com/attachments/1038731595135320114/1043562482855329822/logo-rotated.png'); /* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image: url(https://shardmc.github.io/ShardMC-DiscordTheme/assets/bg-noanimation.png); /* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-blur: 0px; /* Blur intensity of --background-image */
   --opacity: 0.65; /* Opacity of overall app. | Default: .85 */
   --accent: 0,146,149; /* Colour used around the app. | Values are in R,G,B format. | Default: 0, 231, 169 */
