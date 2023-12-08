@@ -14,7 +14,7 @@
 > ### Vencord
 > Add `https://shardmc.github.io/ShardMC-DiscordTheme/shardmcnoanimation.theme.css` link to your themes
 
-### (Static by @NikSneMC)
+- ### (Static by @NikSneMC)
 > ### BetterDiscord
 > Put [this](https://shardmc.github.io/ShardMC-DiscordTheme/shardmc-noanim.theme.css) file into your `themes` folder
 > ### Vencord
